@@ -1,7 +1,7 @@
 <h1>Managing Authorization in Linux</h1>
 
 <h2>Description</h2>
-Used Linux bash commands to configure authorization by examining and managing user and group permissions on directory files. Checked the permissions for all files in the directory, including any hidden files, to make sure that permissions aligned with the authorization that should have been given and changed any permissions that did not align.
+Used Linux commands in bash to configure authorization by examining and managing user and group permissions on directory files. Checked the permissions for all files in the directory, including any hidden files, to make sure that permissions aligned with the authorization that should have been given and changed any permissions that did not align.
 <br />
 
 <h2>Languages and Utilities Used</h2>
